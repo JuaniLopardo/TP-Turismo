@@ -1,5 +1,5 @@
 # TP-Turismo
-Trabajo pr谩ctico en grupo.
+Trabajo pr醕tico en grupo.
 
 ## Formato de Entrada
 
@@ -21,7 +21,7 @@ Ejemplo:
 
 ```
 Porcentual, Pack aventura, Aventura, 20, Bosque Negro + Mordor
-Absoluta, Pack degustacion, Degustaci贸n, 36, Lothl贸rien + La Comarca
+Absoluta, Pack degustacion, Degustaci贸n, 36, Lothlorien + La Comarca
 AxB, Pack paisajes, Paisaje, Erebor, Minas Tirith + Abismo de Helm + Erebor
 ```
 
@@ -42,5 +42,7 @@ Formato para Atraccion: nombre, costo, duracion, cupo, tipo
 Ejemplo:
 
 ```
-La Comarca, 3, 6.5, 150, Degustaci贸n
+La Comarca, 3, 6.5, 150, Degustaci髇
 ```
+
+UML (https://online.visual-paradigm.com/app/diagrams/#diagram:mode=Google&state={%22ids%22:[%221370T1niXsten8evkmH7iZNfQqPATHmmE%22],%22action%22:%22open%22,%22userId%22:%22104186208623630687227%22,%22resourceKeys%22:{}})
